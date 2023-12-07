@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Inigo Jeeevan</h1>
 <h3 align="center">A passionate Devops/Backend Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inigojeevan&label=Profile%20views&color=0e75b6&style=flat" alt="inigojeevan" /> </p>
 
