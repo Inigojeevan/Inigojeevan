@@ -3,15 +3,6 @@
 <h1 align="center">Hey 👋, I'm Jeevan</h1>
 <h3 align="center">Just a Developer trying to turn ☕ into 🚀 code</h3>
 
----
-
-- 🧑‍💻 On a mission to be **the “Final Boss” of Fullstack Development**
-- 🤖 Playing around with **GenAI** until it either makes me jobless or famous  
-- ⚙️ Practicing **DevOps wizardry** (because "it works on my machine" isn’t good enough)  
-- 📫 Reach me: **inmasm123@gmail.com**
-
----
-
 <h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
   <a href="https://linkedin.com/in/inigo-jeevan" target="blank">
